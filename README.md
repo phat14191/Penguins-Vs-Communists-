@@ -2,14 +2,8 @@
 
 NodeJS Project way to deal with Objects/Associative Arrays, Constructors or "Classes", Callback functions. Deciding the fate of the Penguins or Communists through Javascript callbacks. 
 
-## Table of contents
-
-- [Screenshots](#screenshots)
-- [Download and Run](#download-and-run)
-- [Documentation](#documentation)
-
 ## Screenshots
-![User Selection]()
+![Images](https://s3-us-west-1.amazonaws.com/phat14191/ComunistVSPenguins.png)
 
 ## Download and Run
 
@@ -28,7 +22,7 @@ The documentation used to run Penguins Vs Communists are located in [app.js](htt
 
 ##### ***Flip a coin***
 
- Random number between 1 and 2 to see which party attacks first (50% on hit or NONE)
+ - Random number between 1 and 2 to see which party attacks first (50% on hit or NONE)
 
 ##### ***Create a function called sendNuke(partyAttacking, onHit, onMiss) where:***
 
