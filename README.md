@@ -11,14 +11,14 @@ NodeJS Project way to deal with Objects/Associative Arrays, Constructors or "Cla
 2) cd Penguins-Vs-Communists-
 3) node app.js 
 
-## Documentation
+## Detail Project
 
-The documentation used to run Penguins Vs Communists are located in [app.js](https://github.com/phat14191/Penguins-Vs-Communists-/blob/master/app.js) and are explained more fully below. 
+This project runs Penguins Vs Communists are located in [app.js](https://github.com/phat14191/Penguins-Vs-Communists-/blob/master/app.js) and are explained more fully below. 
 
-##### ***Two Players***
+##### ***Two Players:***
 
 - Create two parties: "Penguins" and "Communists"  (Create a Javascript class and use the new keyword to instantiate the parties).
-- Each party has a starting population of 1,000,000
+- Each party has a starting population of 1,000,000.
 
 ##### ***Flip a coin***
 
@@ -31,15 +31,15 @@ The documentation used to run Penguins Vs Communists are located in [app.js](htt
  - The third parameter onMiss is a callback function that will be called if the attack is unsuccessful.
  - the onHit and onMiss functions each take one parameter of type party (just forwarding the party you already passed into sendNuke).
  
-##### ***Print messages in the callbacks that are appropriate***
+##### ***Print messages in the callbacks that are appropriate:***
 
  - If the attack missed then it would log "The Communist/Penguins MISSED their nuke".
 
-##### ***If an attack is successful***
+##### ***If an attack is successful:***
 
  - Print out initiate a random damage amount, and populations remaining.
 
-##### ***After an attack is completed (or missed) the opposing party will initiate an attack***
+##### ***After an attack is completed (or missed) the opposing party will initiate an attack:***
 
  - This process will repeat until one of the parties reaches a 0 population
  - Then will print out "The *** ***Communists/Penguins*** ***" is Won!!!
