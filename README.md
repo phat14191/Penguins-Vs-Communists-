@@ -8,7 +8,7 @@ NodeJS Project way to deal with Objects/Associative Arrays, Constructors or "Cla
 ## Download and Run
 
 1) git clone https://github.com/phat14191/Penguins-Vs-Communists-
-2) go to the folder
+2) cd Penguins-Vs-Communists-
 3) node app.js 
 
 ## Documentation
